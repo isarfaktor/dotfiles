@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"CoffeeLint",
+		"CoffeeScript",
+		"CoffeeScript Function Finder",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Hayaku - tools for writing CSS faster",
+		"JsFormat",
+		"JSLint",
+		"LESS",
+		"Liquid",
+		"Package Control",
+		"rsub",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Snake",
+		"Stylus",
+		"Theme - Soda"
+	]
+}

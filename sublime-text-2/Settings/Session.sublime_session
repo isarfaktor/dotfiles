@@ -1,0 +1,837 @@
+{
+	"folder_history":
+	[
+		"/home/somehats/things",
+		"/home/somehats/things/ball-test",
+		"/home/somehats/things/party-cools",
+		"/home/somehats/ben"
+	],
+	"last_window_id": 8,
+	"settings":
+	{
+		"new_window_height": 905.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"p",
+						"p"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"m",
+						"m"
+					],
+					[
+						"P",
+						"Particle"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"oack",
+						"Package Control: List Packages"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 155.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/somehats/things/ball-test/goosurface/gswrap.c",
+				"/home/somehats/things/ball-test/goosurface/goosurface.go",
+				"/home/somehats/things/ball-test/example.go",
+				"/usr/local/go/src/pkg/code.google.com/p/gogoo/goosurface/Makefile",
+				"/home/somehats/ben/www/party-cools/particle.js",
+				"/home/somehats/.config/sublime-text-2/Packages/User/SFTP.sublime-settings",
+				"/run/media/somehats/6ceba630-48b7-4289-a172-5432a9294c16/home/somehats/aruco.js/aruco.js",
+				"/home/somehats/.config/sublime-text-2/Packages/SFTP/SFTP.sublime-settings",
+				"/home/somehats/ben/site/_layouts/default.html",
+				"/home/somehats/ben/site/css/style.styl",
+				"/run/media/somehats/6ceba630-48b7-4289-a172-5432a9294c16/home/somehats/j.dytry.ch/_plugins/compile-compress.rb",
+				"/home/somehats/.ssh/config",
+				"/home/somehats/Downloads/DS_Store (1).txt",
+				"/home/somehats/Downloads/DS_Store.txt",
+				"/home/somehats/ben/party-cools-remote/vector.js",
+				"/home/somehats/ben/party-cools-remote/particle.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/jslint.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/linter.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/JSLint.sublime-build",
+				"/home/somehats/ben/party-cools-remote/main.js",
+				"/home/somehats/ben/party-cools-remote/style.css",
+				"/home/somehats/ben/party-cools-remote/index.html",
+				"/home/somehats/ben/party-cools/index.html",
+				"/home/somehats/ben/party-cools/style.css",
+				"/home/somehats/ben/party-cools/main.js",
+				"/home/somehats/ben/party-cools/particle.js",
+				"/home/somehats/ben/party-cools/vector.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/JSLint.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/somehats/.config/sublime-text-2/Settings/Session.sublime_session",
+				"/home/somehats/.config/sublime-text-2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+				"/home/somehats/ben/index.html",
+				"/home/somehats/ben/party-cools/particles.js",
+				"/home/somehats/ben/sftp-config.json",
+				"/home/somehats/.bashrc",
+				"/home/somehats/.themes/Faience/index.theme",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-widgets.css",
+				"/usr/share/gnome-shell/theme/gnome-shell.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-overrides-dark.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-widgets-borders.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-apps.css"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"gcreset",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"Particle"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"gcreset1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 96.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 126.0
+			},
+			"output.sftp":
+			{
+				"height": 227.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1425.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"config"
+					],
+					[
+						"sub",
+						"sublime-text-2"
+					],
+					[
+						"vim",
+						"vimrc"
+					],
+					[
+						"le",
+						"len"
+					],
+					[
+						"Pr",
+						"Printf"
+					],
+					[
+						"Print",
+						"Println"
+					],
+					[
+						"P",
+						"Println"
+					],
+					[
+						"li",
+						"list"
+					],
+					[
+						"s",
+						"strings"
+					],
+					[
+						"R",
+						"RandomList"
+					],
+					[
+						"Ma",
+						"MakeList"
+					],
+					[
+						"M",
+						"MakeLists"
+					],
+					[
+						"ge",
+						"generator"
+					],
+					[
+						"A",
+						"Args"
+					],
+					[
+						"str",
+						"strconv"
+					],
+					[
+						"f",
+						"fmt"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"m",
+						"m"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/somehats/things/go-merge/go-merge.go",
+					"settings":
+					{
+						"buffer_size": 1409,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/somehats/things/go-merge/merge/generator.go",
+					"settings":
+					{
+						"buffer_size": 840,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/somehats/things/go-merge/merge/sort.go",
+					"settings":
+					{
+						"buffer_size": 1526,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/somehats/.cache/.fr-2vlHbr/INSTRUCTIONS.txt",
+					"settings":
+					{
+						"buffer_size": 229,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/somehats/dotfiles/README.md",
+					"settings":
+					{
+						"buffer_size": 61,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/somehats/things/go-merge/merge/sort-concurrent.go",
+					"settings":
+					{
+						"buffer_size": 75,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Go Build.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"oack",
+						"Package Control: List Packages"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 155.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/somehats/dotfiles/setup.sh",
+				"/home/somehats/dotfiles/README.md",
+				"/home/somehats/.viminfo",
+				"/home/somehats/Downloads/install.sh",
+				"/home/somehats/ben/site.sh",
+				"/home/somehats/dotfiles/bashrc",
+				"/home/somehats/.bash_profile",
+				"/home/somehats/things/web-platform/.git/HEAD",
+				"/home/somehats/things/go-merge/data-1.txt",
+				"/home/somehats/things/data-1.txt",
+				"/home/somehats/things/go-merge/data.txt",
+				"/home/somehats/.config/sublime-text-2/Packages/User/Go Build.sublime-build",
+				"/home/somehats/things/ball-test/goosurface/gswrap.c",
+				"/home/somehats/things/ball-test/goosurface/goosurface.go",
+				"/home/somehats/things/ball-test/example.go",
+				"/usr/local/go/src/pkg/code.google.com/p/gogoo/goosurface/Makefile",
+				"/home/somehats/ben/www/party-cools/particle.js",
+				"/home/somehats/.config/sublime-text-2/Packages/User/SFTP.sublime-settings",
+				"/run/media/somehats/6ceba630-48b7-4289-a172-5432a9294c16/home/somehats/aruco.js/aruco.js",
+				"/home/somehats/.config/sublime-text-2/Packages/SFTP/SFTP.sublime-settings",
+				"/home/somehats/ben/site/_layouts/default.html",
+				"/home/somehats/ben/site/css/style.styl",
+				"/run/media/somehats/6ceba630-48b7-4289-a172-5432a9294c16/home/somehats/j.dytry.ch/_plugins/compile-compress.rb",
+				"/home/somehats/.ssh/config",
+				"/home/somehats/Downloads/DS_Store (1).txt",
+				"/home/somehats/Downloads/DS_Store.txt",
+				"/home/somehats/ben/party-cools-remote/vector.js",
+				"/home/somehats/ben/party-cools-remote/particle.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/jslint.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/linter.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/JSLint.sublime-build",
+				"/home/somehats/ben/party-cools-remote/main.js",
+				"/home/somehats/ben/party-cools-remote/style.css",
+				"/home/somehats/ben/party-cools-remote/index.html",
+				"/home/somehats/ben/party-cools/index.html",
+				"/home/somehats/ben/party-cools/style.css",
+				"/home/somehats/ben/party-cools/main.js",
+				"/home/somehats/ben/party-cools/particle.js",
+				"/home/somehats/ben/party-cools/vector.js",
+				"/home/somehats/.config/sublime-text-2/Packages/JSLint/JSLint.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/JsFormat/JsFormat.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/somehats/.config/sublime-text-2/Packages/JsFormat/Default (Linux).sublime-keymap",
+				"/home/somehats/.config/sublime-text-2/Settings/Session.sublime_session",
+				"/home/somehats/.config/sublime-text-2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+				"/home/somehats/ben/index.html",
+				"/home/somehats/ben/party-cools/particles.js",
+				"/home/somehats/ben/sftp-config.json",
+				"/home/somehats/.bashrc",
+				"/home/somehats/.themes/Faience/index.theme",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-widgets.css",
+				"/usr/share/gnome-shell/theme/gnome-shell.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-overrides-dark.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-widgets-borders.css",
+				"/home/somehats/.themes/Faience/gtk-3.0/gtk-apps.css"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"RandomList",
+					"n",
+					"gcreset",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"V",
+					"v",
+					"Particle"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"List",
+					"gcreset1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/somehats/things"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/somehats/things/go-merge/go-merge.go",
+							"settings":
+							{
+								"buffer_size": 1409,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1086,
+										1086
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Go/Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 684.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/somehats/things/go-merge/merge/generator.go",
+							"settings":
+							{
+								"buffer_size": 840,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										743,
+										743
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Go/Go.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 57.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/somehats/things/go-merge/merge/sort.go",
+							"settings":
+							{
+								"buffer_size": 1526,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1419,
+										1419
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Go/Go.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 684.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/somehats/.cache/.fr-2vlHbr/INSTRUCTIONS.txt",
+							"settings":
+							{
+								"buffer_size": 229,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/somehats/dotfiles/README.md",
+							"settings":
+							{
+								"buffer_size": 61,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										61,
+										61
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/somehats/things/go-merge/merge/sort-concurrent.go",
+							"settings":
+							{
+								"buffer_size": 75,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										47,
+										47
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Go/Go.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 96.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 126.0
+			},
+			"output.sftp":
+			{
+				"height": 227.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,3200,1080",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

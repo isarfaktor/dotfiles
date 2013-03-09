@@ -1,0 +1,23 @@
+[global_config]
+  title_transmit_bg_color = "#02356e"
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#1e90ff:#cd00cd:#00cdcd:#e5e5e5:#4c4c4c:#ff0000:#00ff00:#ffff00:#4682b4:#ff00ff:#00ffff:#ffffff"
+    alternate_screen_scroll = False
+    background_darkness = 0.81
+    scrollback_lines = 1000
+    background_type = transparent
+    cursor_color = "#1793e6"
+    foreground_color = "#6cc6ff"
+    cursor_shape = ibeam
+    copy_on_selection = True
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
